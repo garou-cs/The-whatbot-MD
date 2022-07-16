@@ -4,9 +4,7 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
   <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The WhatBot-MD++%F0%9F%92%96;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=creador++%F0%9F%92%96;dudas+sobre+el+contarme+solo+por+tema+del+bot.+%F0%9F%92%96" height="90px"
-</p>
+### `—◉ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
 <a href="http://wa.me/56977774748" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="http://wa.me/51935116539" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
