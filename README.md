@@ -51,7 +51,8 @@ npm start
 
 ```
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![elrebelde](https://github.com/elrebelde21)](https://github.com/elrebelde21/) 
+[![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) 
+  
 
 `The whatbot - MD __________ By rebelde`
 
