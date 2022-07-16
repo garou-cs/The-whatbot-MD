@@ -16,9 +16,8 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 ](https://youtu.be/8Tml7lGcV-w)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
 
 <p align="center"> 
-  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=pagina++%F0%9F%92%96;quiere+tener+un+bot+activo 24/7+adicnodes.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=pagina++%F0%9F%92%96;quiere+tener+un+bot+activo 24/7+adicnodes+..+%F0%9F%92%96" height="90px"
 </p>
-
 ###  ```pagina``` [`acidicnodes`](http://portal.acidicnodes.com)
 
 
