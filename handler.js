@@ -686,6 +686,7 @@ module.exports = {
             if (opts['autoread']) await this.chatRead(m.chat, m.isGroup ? m.sender : undefined, m.id || m.key.id).catch(() => { })
             let quequeIndex = this.msgqueque.indexOf(m.id || m.key.id)
             if (opts['queque'] && m.text && quequeIndex !== -1) this.msgqueque.splice(quequeIndex, 1)
+            this.sendPresenceUpdate('recording', m.chat)
         }
     },
     async participantsUpdate({ id, participants, action }) {
