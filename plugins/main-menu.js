@@ -277,9 +277,7 @@ const fdoc = {
 
 //━━━━━━━━[ SECCIÓN DEL MENÚ ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」
-║❥𝙷𝚘𝚕𝚊, ${name} ${ucapan()}
-║
+let menuu = `
 ║❥𝙻𝚒𝚖𝚒𝚝𝚎: ${limit}
 ║
 ║❥𝚁𝚊𝚗𝚐𝚘: ${role}
@@ -548,20 +546,21 @@ function clockString(ms) {
   let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
   return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')
 }
+
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
-  res = "buenos dias espero que tenga lindo dias✨"
+  res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, como esta"
   if (time >= 4) {
-    res = "buena tarde espero que tenga linda tarde☀️i"
+    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, buena tarde espero que tenga linda tarde☀️i"
   }
   if (time > 10) {
-    res = "buenos días espero que tenga lindo día✨ "
+    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, buenos días espero que tenga lindo día✨ "
   }
   if (time >= 15) {
-    res = "buenas noches espero que tenga linda noche✨"
+    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, buenas noches espero que tenga linda noche✨"
   }
   if (time >= 18) {
-    res = "buenos dias espero que lindo dias✨"
+    res = "╭─「 𝐒𝐔𝐏𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐃 」 \n║❥𝙷𝚘𝚕𝚊, buenos dias espero que lindo dias✨"
   }
   return res
 }
