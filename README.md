@@ -42,11 +42,19 @@ npm start
 
 ## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐡𝐞𝐫𝐨𝐤𝐮
 𝐏𝐚𝐫𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 𝐝𝐞 𝐡𝐞𝐫𝐨𝐤𝐮
-
-### Instal Buildpack
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/elrebelde21/The-LoliBot-MD) <img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="32px">
+### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
+```bash
 * heroku/nodejs
+
+
+
+```bash
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+```
+```bash
 * https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git*
+```
 
 ## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐖𝐢𝐧𝐝𝐨𝐰𝐬
 𝐏𝐚𝐫𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 𝐝𝐞 𝐖𝐢𝐧𝐝𝐨𝐰𝐬
