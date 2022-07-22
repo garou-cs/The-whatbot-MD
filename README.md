@@ -25,7 +25,7 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 
 ---------
 
-## TERMUX
+## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐭𝐞𝐫𝐦𝐮𝐱
 ```bash
 pkg update && pkg upgrade
 pkg install git
@@ -40,36 +40,39 @@ npm i -g typescript
 npm start 
 ```
 
-## HEROKU
+## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐡𝐞𝐫𝐨𝐤𝐮
+𝐏𝐚𝐫𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 𝐝𝐞 𝐡𝐞𝐫𝐨𝐤𝐮
 
 ### Instal Buildpack
 * heroku/nodejs
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 * https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git*
 
-## Instalación for Windows
-* Unduh salah satu versi FFmpeg yang tersedia dengan mengklik [di sini](https://www.gyan.dev/ffmpeg/builds/).
-* Extract file ke `C:\` path.
-* Ganti nama folder yang telah di-extract menjadi `ffmpeg`.
-* Run Command Prompt as Administrator.
-* Jalankan perintah berikut::
+## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐖𝐢𝐧𝐝𝐨𝐰𝐬
+𝐏𝐚𝐫𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 𝐝𝐞 𝐖𝐢𝐧𝐝𝐨𝐰𝐬
+
+* Descarga cualquiera de las versiones de FFmpeg disponibles haciendo clic en [di sini](https://www.gyan.dev/ffmpeg/builds/).
+* Extraer archivo ke `C:\` path.
+* Cambie el nombre de la carpeta extraída a `ffmpeg`.
+* Ejecute el símbolo del sistema como administrador..
+* Ejecute el siguiente comando::
 ```cmd
 > setx /m PATH "C:\ffmpeg\bin;%PATH%"
 
 ```
-## `EDITOR Y PORPIETARIO DEL BOT` 
+## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
 [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) 
   
 
 `The whatbot - MD __________ By rebelde`
 
 
-## `COLABORACION` 
+## `𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐂𝐈𝐎𝐍` 
 [![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)   
 
 `The whatbot - MD __________ By misael`
 
-# agracimiento 
+# 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨 
  [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
 ----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ilman](https://github.com/ilmanhdyt) | [Istikmal](https://github.com/BochilGaming)
