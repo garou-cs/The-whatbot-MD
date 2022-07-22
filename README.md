@@ -12,6 +12,10 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 )](https://chat.whatsapp.com/Byyrc8RJnUkJw6vvUgsbDF)  <a href="https://chat.whatsapp.com/Byyrc8RJnUkJw6vvUgsbDF"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 ---------
 
+<p align="hihg">   
+<a href="https://facebook.com/groups/721802642266362" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=blue" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+---------
+
 <p align="center">
 <img src="https://telegra.ph/file/fed1c9d94b37511e570d5.mp4" alt="" width="500"/>
 
