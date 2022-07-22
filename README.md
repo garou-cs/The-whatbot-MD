@@ -14,7 +14,7 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 
 Grupo asistencia facebook 
 <p align="hihg">   
-<a href="https://facebook.com/groups/721802642266362" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=blue" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<a href="https://facebook.com/groups/721802642266362" target="_blank"> <img src="https://img.shields.io/badge/-grupos-asitencia-facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=blue" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 <p align="center">
 <img src="https://telegra.ph/file/fed1c9d94b37511e570d5.mp4" alt="" width="500"/>
