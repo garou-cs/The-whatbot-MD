@@ -87,5 +87,3 @@ npm start
 
 # 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨 
 [![liman](https://github.com/ilmanhdyt.png?size=100)](https://github.com/ilmanhdyt)   
-[![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt)
-
