@@ -86,5 +86,7 @@ npm start
 `The whatbot - MD __________ By misael`
 
 # 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨 
-[![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt) | [![Istikmal]
+[![liman](https://github.com/ilmanhdyt)](https://github.com/ilmanhdyt)   
+
+[![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt)
 
