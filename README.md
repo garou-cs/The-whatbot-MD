@@ -83,7 +83,8 @@ npm start
 
 
 ## `𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐂𝐈𝐎𝐍` 
-[![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)   
+[![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)
+[![⸸𝐓𝐢𝐎  𝐂𝐀𝐑𝐋𝐎𝐒  ⸸ 𝚯𝐅𝐂](https://github.com/Bottiocarlos.png?size=100   
 
 `The whatbot - MD __________ By misael`
 
