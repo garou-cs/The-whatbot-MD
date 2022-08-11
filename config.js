@@ -1,11 +1,11 @@
 //=============『 owner 』================== //
-global.owner = ['56977774748', '51935116539','5218992059110']
+global.owner = ['5492266466080', '51935116539','5218992059110']
 global.mods = ['972529277406'] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = '𑄒𑄴𑄬𑄲𑄰𑅆ڜel rebelde𖠄' //Nombre del creador
-global.numberowner = '972529277406'
+global.numberowner = '5492266466080'
 global.nameowner2 = '░▒▓█►─═  𝙼𝙸𝚂𝙰𝙴𝙻 ═─◄█▓▒░' //Nombre del creador2
 global.numberowner2 = '51935116539'
 global.nameowner2 = '⸸ 𝐓𝐢𝐎  𝐂𝐀𝐑𝐋𝐎𝐒  ⸸ 𝚯𝐅𝐂 ⸸ ' //Nombre del creador3
