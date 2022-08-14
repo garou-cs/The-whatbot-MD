@@ -76,11 +76,9 @@ npm start
 
 ```
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-[![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) 
-  
+<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
 
-`The whatbot - MD __________ By rebelde`
-
+`The LoliBot-MD _ By el rebelde`
 
 ## `𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐂𝐈𝐎𝐍` 
 [![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)
