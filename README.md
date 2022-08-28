@@ -35,17 +35,15 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 
 ## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐭𝐞𝐫𝐦𝐮𝐱
 ```bash
-pkg update && pkg upgrade
-pkg install git
-pkg install nodejs
-pkg install ffmpeg
-pkg install imagemagick
-pkg install yarn
-git clone https://github.com/elrebelde21/The-whatbot-MD
-cd The-whatbot-MD
-yarn
-npm i -g typescript
-npm start 
+> pkg install
+> pkg upgrade
+> pkg install git
+> pkg install ffmpeg && pkg install libwebp
+> pkg install nodejs
+> git clone https://github.com/xzeera-id/Senkuu-MD
+> cd Senkuu-MD
+> npm install
+> npm start
 ```
 
 ## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐡𝐞𝐫𝐨𝐤𝐮
