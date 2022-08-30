@@ -2,7 +2,7 @@ const fs = require('fs');
 const { color } = require("./lib/function");
 
 global.shp = " ×"
-global.config = require("./lib/config.json");
+global.config = require("./config.json");
 global.sc = require('./lib/scrape');
 global.tool = require('./lib/tools');
 global.footer = "*_乂 Simple WhatsApp - Bot_*"
