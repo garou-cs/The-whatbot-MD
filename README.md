@@ -82,7 +82,6 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 [![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)
 [![⸸𝐓𝐢𝐎  𝐂𝐀𝐑𝐋𝐎𝐒  ⸸ 𝚯𝐅𝐂](https://github.com/Bottiocarlos.png?size=100)](https://github.com/Bottiocarlos)
 
-`The whatbot - MD __________ By misael`
 
 # 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨 
-[![base](https://github.com/xzeera-id/Senkuu-MD.png?size=100)](https://github.com/xzeera-id/Senkuu-MD)   
+[![senkuu-MD](https://github.com/xzeera-id/Senkuu-MD.png?size=100)](https://github.com/xzeera-id/Senkuu-MD)   
