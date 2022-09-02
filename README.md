@@ -40,9 +40,11 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 > pkg install git
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
+> pkg install yarn
 > git clone https://github.com/elrebelde21/The-whatbot-MD
 > cd The-whatbot-MD
 > npm install
+> yarn
 > npm start
 ```
 
