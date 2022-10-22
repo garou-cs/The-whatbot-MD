@@ -86,4 +86,3 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 
 
 # 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨 
-[![senkuu-MD](https://github.com/xzeera-id/Senkuu-MD.png?size=100)](https://github.com/xzeera-id/Senkuu-MD)   
